@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "788693166408",
+    "firebase_url": "https://spl2-4b5b7.firebaseio.com",
+    "project_id": "spl2-4b5b7",
+    "storage_bucket": "spl2-4b5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788693166408:android:71e1c1d151349a69652b7d",
+        "android_client_info": {
+          "package_name": "com.ban.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788693166408-h7gbmqa039ie211arpge40tdtmmdo15q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ban.student",
+            "certificate_hash": "99337cde57f2f91ce6f0f4fbfcb5867122201c30"
+          }
+        },
+        {
+          "client_id": "788693166408-aj2cmmolqh6v1p6cnuup8tndt5fm57fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ban.student",
+            "certificate_hash": "daf2109b3c76253435589b75608df452fb6e4bb7"
+          }
+        },
+        {
+          "client_id": "788693166408-63l73jb4qgimfmgad9bekjg1sdptsri7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ban.student",
+            "certificate_hash": "5e85a58ffadb79e2fefe50903cb4b28181c65f2c"
+          }
+        },
+        {
+          "client_id": "788693166408-greldt8hkgpcbst7cjt5cgh6ik9453nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQm0Ssw82jU5joWc_cg3jZRq5jOBFIcHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788693166408-greldt8hkgpcbst7cjt5cgh6ik9453nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788693166408:android:13b131ba130334dd652b7d",
+        "android_client_info": {
+          "package_name": "com.ban.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788693166408-9ecta7s69qms0pqvcsjn6erm0s9gojqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ban.teacher",
+            "certificate_hash": "daf2109b3c76253435589b75608df452fb6e4bb7"
+          }
+        },
+        {
+          "client_id": "788693166408-i16sq7bv1jn0pvq2tra6cd969iigok8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ban.teacher",
+            "certificate_hash": "99337cde57f2f91ce6f0f4fbfcb5867122201c30"
+          }
+        },
+        {
+          "client_id": "788693166408-q77qc0do6cm7h2kb3302hv3p784rjp60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ban.teacher",
+            "certificate_hash": "5e85a58ffadb79e2fefe50903cb4b28181c65f2c"
+          }
+        },
+        {
+          "client_id": "788693166408-greldt8hkgpcbst7cjt5cgh6ik9453nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQm0Ssw82jU5joWc_cg3jZRq5jOBFIcHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788693166408-greldt8hkgpcbst7cjt5cgh6ik9453nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788693166408:android:106fefbc4b0ed105652b7d",
+        "android_client_info": {
+          "package_name": "com.example.classtantadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788693166408-0ndmvpp78nn6mm7sn1ab8beuo5c86e6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.classtantadmin",
+            "certificate_hash": "daf2109b3c76253435589b75608df452fb6e4bb7"
+          }
+        },
+        {
+          "client_id": "788693166408-greldt8hkgpcbst7cjt5cgh6ik9453nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQm0Ssw82jU5joWc_cg3jZRq5jOBFIcHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788693166408-greldt8hkgpcbst7cjt5cgh6ik9453nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
