@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
                         if(did.getText().length()>0){
                             setInDevice = FirebaseDatabase.getInstance().getReference("Device/"+secret.getText().toString().trim()+"/StudentID/"+did.getText().toString());
                             setInDevice.setValue(suid.getText().toString());
+                            Toast.makeText(getApplicationContext(), "Successfully Added!", Toast.LENGTH_LONG).show();
                         }else {
                             Toast.makeText(getApplicationContext(), "Write valid device ID", Toast.LENGTH_SHORT).show();
                         }
